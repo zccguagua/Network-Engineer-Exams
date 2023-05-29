@@ -44,3 +44,8 @@
 ### 考前冲刺
 
 [【冲刺】2023年5月软考网络工程师考前重点总结X页](https://www.bilibili.com/read/cv23896512?spm_id_from=333.999.list.card_opus.click)
+
+### 考试
+2023年5月27日考试，下午题很难，感觉都超纲了，据说泄题了
+![泄题](chapter/xieti.webp)
+
