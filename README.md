@@ -41,11 +41,20 @@
 6.VRRP配置
 7.BFD配置
 8.RIP OSPF 路由策略 策略路由等
+
+[通过DHCP方式配置AP上线](https://support.huawei.com/enterprise/zh/doc/EDOC1000051014/88221648#ZH-CN_TOPIC_0259114897)
+[使用高级ACL限制用户在特定时间访问特定服务器的权限示例](https://support.huawei.com/enterprise/zh/doc/EDOC1100127132/a28cb2c4)
+[使用高级ACL限制用户在特定时间访问特定服务器的权限示例](https://support.huawei.com/enterprise/zh/doc/EDOC1100127132/a28cb2c4)
+
 ### 考前冲刺
 
 [【冲刺】2023年5月软考网络工程师考前重点总结X页](https://www.bilibili.com/read/cv23896512?spm_id_from=333.999.list.card_opus.click)
 
-### 考试
+### 泄题
 2023年5月27日考试，下午题很难，感觉都超纲了，据说泄题了
 ![泄题](chapter/xieti.webp)
 
+### 参考答案与解析
+[2023年5月网络工程师上午题](https://docs.qq.com/doc/DTndiSXpaS05mQXFJ?groupUin=Zw6qu1HBkT448RPimRMyxQ%253D%253D&ADUIN=532652152&ADSESSION=1685367721&ADTAG=CLIENT.QQ.5681_.0&ADPUBNO=27272&jumpuin=532652152)
+
+[2023年5月网络工程师下午真题](https://docs.qq.com/doc/DTmNLd1R2c2FnSUdp?groupUin=Zw6qu1HBkT448RPimRMyxQ%253D%253D&ADUIN=532652152&ADSESSION=1685198421&ADTAG=CLIENT.QQ.5681_.0&ADPUBNO=27272&jumpuin=532652152)
