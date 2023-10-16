@@ -32,18 +32,24 @@
 12.网络规划设计
 ![网络规划设计](chapter/net_chapter12.png)
 
+### 部分知识点
+[DNS域名详细解析过程(最全面，看这一篇就够)](https://blog.csdn.net/bangshao1989/article/details/121913780)
+
+
 ### 下午题目
 题目类型不固定，华为配置占比很大
-1.基础配置
-2.DHCP配置
-3.ACL配置
-4.NAT配置
-6.VRRP配置
-7.BFD配置
-8.RIP OSPF 路由策略 策略路由等
+1.基础配置<br>
+2.DHCP配置<br>
+3.ACL配置<br>
+4.NAT配置<br>
+6.VRRP配置<br>
+7.BFD配置<br>
+8.RIP OSPF 路由策略 策略路由等<br>
 
 [通过DHCP方式配置AP上线](https://support.huawei.com/enterprise/zh/doc/EDOC1000051014/88221648#ZH-CN_TOPIC_0259114897)
+
 [使用高级ACL限制用户在特定时间访问特定服务器的权限示例](https://support.huawei.com/enterprise/zh/doc/EDOC1100127132/a28cb2c4)
+
 [使用高级ACL限制用户在特定时间访问特定服务器的权限示例](https://support.huawei.com/enterprise/zh/doc/EDOC1100127132/a28cb2c4)
 
 ### 考前冲刺
