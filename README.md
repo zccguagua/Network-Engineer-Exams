@@ -45,7 +45,11 @@
 
 [DNS域名详细解析过程(最全面，看这一篇就够)](https://blog.csdn.net/bangshao1989/article/details/121913780)
 
+[CSMA/CD协议](https://blog.csdn.net/qq_46331050/article/details/120406217)
+
 [ICMP协议详解和作用](https://blog.csdn.net/yuxiang1014/article/details/108547017)
+
+[PGP详细内容整理](https://blog.csdn.net/qq_42248536/article/details/105805078)
 
 [划分 VLAN 的作用是什么？](https://www.zhihu.com/question/19903686#)
 
@@ -55,6 +59,11 @@
 
 [802.11 a/b/g/n/ac 是什么以及它们有什么区别](https://blog.csdn.net/briant_ccj/article/details/50487303)
 
+[数字签名和数字证书的原理解读(图文)](https://www.wosign.com/News/news_2018101101.htm)
+
+[RAID6与RAID5数据安全性对比](https://support.huawei.com/enterprise/zh/knowledge/EKB1000149118)
+
+[DAS、SAN、NAS三种存储方式的概念及应用](https://blog.csdn.net/qq_23348071/article/details/73963407)
 #### 1000 Base
 
 1000 Base-T标准使用的是5类**非屏蔽双绞线**，双绞线长度可以达到100m。<br>
@@ -91,6 +100,9 @@ Hold定时器。
 （3）只有链路发生变化时，路由器才向所有的路由器用洪泛法发送此信息，而RIP是不管网络拓扑有无变化，都要周期性的交换路由表的信息。<br>
 由于各路由器频繁的交换链路状态信息，因此所有的路由器最终都能建立一个链路状态数据库，这个数据库实际就是全网的拓扑结构图。这个拓扑图在全网范围内都是一致的。每一个路由器都知道全网有多少个路由器，以及哪些路由器是相连的，其度量是多少。每个路由器使用链路状态数据库中的数据，构造自己的路由表。<br>
 另外就是RIPV1采用广播发送路由表，RIPV2增加了组播方式，而OSPF是**组播**。<br>
+
+#### 
+
 
 ### 下午题目
 
