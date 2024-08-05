@@ -135,3 +135,11 @@ Hold定时器。
 [2023年5月网络工程师上午题](https://docs.qq.com/doc/DTndiSXpaS05mQXFJ?groupUin=Zw6qu1HBkT448RPimRMyxQ%253D%253D&ADUIN=532652152&ADSESSION=1685367721&ADTAG=CLIENT.QQ.5681_.0&ADPUBNO=27272&jumpuin=532652152)
 
 [2023年5月网络工程师下午真题](https://docs.qq.com/doc/DTmNLd1R2c2FnSUdp?groupUin=Zw6qu1HBkT448RPimRMyxQ%253D%253D&ADUIN=532652152&ADSESSION=1685198421&ADTAG=CLIENT.QQ.5681_.0&ADPUBNO=27272&jumpuin=532652152)
+
+[2024年上半年网络工程师综合知识真题与答案（考友回忆版，75题全）](https://www.cnitpm.com/pm1/155766iyixk0r65h.html)
+
+[2024年上半年网络工程师上午真题及答案解析](https://www.bilibili.com/opus/937969988120084505)
+
+[2024年上半年网络工程师案例分析真题与答案（考友回忆完整版）](https://www.cnitpm.com/pm1/155771kt2vqir9uq.html)
+
+[2024年上半年网络工程师下午真题及答案解析](https://www.bilibili.com/opus/956165084245131303)
