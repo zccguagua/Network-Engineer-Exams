@@ -46,6 +46,8 @@
 
 ### 部分知识点
 
+[简单理解TCP三次握手四次挥手](https://blog.csdn.net/m0_56649557/article/details/119492899)
+
 [DNS域名详细解析过程(最全面，看这一篇就够)](https://blog.csdn.net/bangshao1989/article/details/121913780)
 
 [CSMA/CD协议](https://blog.csdn.net/qq_46331050/article/details/120406217)
@@ -58,7 +60,7 @@
 
 [通俗易懂的对称加密与非对称加密原理浅析](https://juejin.cn/post/6964558725839339533)
 
-[结构化综合布线系统（6个子系统）](https://blog.csdn.net/zhang175gl/article/details/104102024)
+[结构化综合布线系统（6个子系统）](https://blog.csdn.net/2302_79730293/article/details/142746139)
 
 [802.11 a/b/g/n/ac 是什么以及它们有什么区别](https://blog.csdn.net/briant_ccj/article/details/50487303)
 
@@ -67,6 +69,15 @@
 [RAID6与RAID5数据安全性对比](https://support.huawei.com/enterprise/zh/knowledge/EKB1000149118)
 
 [DAS、SAN、NAS三种存储方式的概念及应用](https://blog.csdn.net/qq_23348071/article/details/73963407)
+
+[滑动窗口后退 N 帧协议 GBN](https://blog.csdn.net/shulianghan/article/details/108070859)
+
+[选择重传协议 SR ](https://blog.csdn.net/shulianghan/article/details/108074861)
+
+[EBGP vs IBGP](https://blog.csdn.net/u013185349/article/details/123394764)
+
+[无线网常见的几种认证方式](https://blog.51cto.com/ccieh3c/4292446)
+
 #### 1000 Base
 
 - 1000 Base-T标准使用的是5类**非屏蔽双绞线**，双绞线长度可以达到100m。
