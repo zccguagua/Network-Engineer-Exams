@@ -1,3 +1,5 @@
+
+
 # Network-Engineer-Exams
 
 软考中级-网络工程师
@@ -42,7 +44,7 @@
 ![下一代互联网](chapter/net_chapter7.png)
 8. 网络安全
 ![数据通信基础](chapter/net_chapter8.png)
-9. 网络操作西贡与应用服务器
+9. 网络操作系统与应用服务器
 ![网络操作系统与应用服务器](chapter/net_chapter9.png)
 10. 组网技术
 ![组网技术](chapter/net_chapter10.png)
