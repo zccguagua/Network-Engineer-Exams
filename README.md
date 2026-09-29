@@ -173,3 +173,11 @@
 [2025年上半年网络工程师综合知识真题答案解析](https://blog.kokojia.com/ruank/b-4110.html)
 
 [2025年上半年网络工程师案例分析真题答案解析](https://blog.kokojia.com/ruank/b-4111.html)
+
+[2025下半年网络工程师《基础知识》真题及答案解析(完整版)](https://blog.csdn.net/vincent16900/article/details/154697913)
+
+[2025年下半年网络工程师案例分析真题及答案解析](https://www.renrendoc.com/paper/534379743.html)
+
+[2026年上半年网络工程师《综合知识》真题及答案解析](https://www.cnitpm.com/pm1/186635eoe18qzdrk.html)
+
+[2026年上半年网络工程师《案例分析》真题及答案解析](https://www.cnitpm.com/pm1/186636kjxdhrn6e7.html)
